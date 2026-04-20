@@ -1,4 +1,4 @@
-```markdown
+
 # 🌌 AetherHide v1.0
 **Advanced EOF Steganography & Data Obfuscation Tool**
 
