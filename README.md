@@ -60,4 +60,3 @@ This tool is developed for **educational and ethical purposes** only. The develo
 
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for more information.
-```
